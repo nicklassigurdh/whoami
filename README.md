@@ -6,3 +6,4 @@ im nicklas the first again... (nicklas.sigurdh)
 
 creating a branch (nicklas.sigurdh)
 making change as nicklas_sigurdh
+more changes as nicklas.sigurdh
